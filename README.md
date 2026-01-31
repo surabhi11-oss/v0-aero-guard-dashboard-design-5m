@@ -164,8 +164,9 @@ Most AQI dashboards show **current pollution levels**.
 
 ## Team
 
-Aarya Tanwade - Team Leader, Project Manager and Full Stack Developer
-Surabhi Chopadekar - UI/UX Designer and Frontend Developer
-Parth Sonar - UI/UX Designer and Frontend Developer
-Atharva Vaidya - Product and Github Manager 
+Aarya Tanwade - Team Leader, Project Manager and Full Stack Developer  
+Surabhi Chopadekar - UI/UX Designer and Frontend Developer  
+Parth Sonar - UI/UX Designer and Frontend Developer  
+Atharva Vaidya - Product and Github Manager  
 
+---
